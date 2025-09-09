@@ -1,0 +1,57 @@
+
+.header {
+    display: flex;
+    height: auto;
+    padding-bottom: 10px;
+    flex-direction: column;
+}
+
+#hero {
+    height: auto;
+    padding: 10px;
+}
+
+.content {
+    width: auto;
+}
+
+#services {
+    min-height: 100vh;
+    height: auto;
+    padding: 10px;
+
+}
+
+.cards {
+    flex-direction: column;
+    padding: 10px;
+}
+
+.card {
+    width: auto;
+    height: auto;
+}
+
+#Myteam {
+    flex-direction: column;
+}
+
+.container {
+    height: auto;
+}
+
+.commentaires {
+    padding: 10px;
+    height: auto;
+}
+
+.commentaire {
+    flex-direction: column;
+    padding: 10px;
+    height: auto;
+    width: auto;
+}
+* {
+    max-width: 100%;
+    height: auto;
+}
